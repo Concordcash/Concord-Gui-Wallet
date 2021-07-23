@@ -15,7 +15,7 @@ Concord is a decentralized cryptocurrency based on the cryptonote protocol. Conc
 - Genesis Date: 15-July-2021
 - Ticker: CCR
 - Address Prefix: CCR
-- POW Algo: Cryptonight Fast
+- POW Algo: Cryptonight Arto
 - Block Time: 180 seconds
 - Max Supply: 100 million
 - Block Reward: 5-50
