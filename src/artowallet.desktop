@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Concord
+GenericName=Concord wallet
+CommentConcord wallet
+Exec=concordwallet %U
+Terminal=false
+Type=Application
+Icon=concordwallet
+MimeType=x-scheme-handler/concordwallet;
+Categories=Office;Finance;
+Version=1.0.1

@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "concordwallet")
+set(CN_CURRENCY_DISPLAY_NAME "Concord")
+set(CN_CURRENCY_TICKER "CCR")
+set(CN_VERSION 1.0.3)
