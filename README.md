@@ -7,18 +7,18 @@ Maintained by Concord.
 ## Information
 ### Concord
 
-The Future Of Blockchain Banking
+The Future Of Blockchain 
 
-Concord is a decentralized cryptocurrency based on the cryptonote protocol. Concord is the complete solution for your blockchain Banking, Payment, and Messaging needs. Concord allows you to earn interest from depositing CCR into your Block-Length-Interest account. It also provides instant privacy protected peer-to-peer transactions as well as untraceable/self-destructive encrypted messaging, with extremely low processing fees in a decentralized network.
+Concord is a decentralized cryptocurrency based on the cryptonote protocol. Concord is the complete solution for your blockchain Banking, Payment, and Messaging needs. It also provides instant privacy protected peer-to-peer transactions as well as untraceable/self-destructive encrypted messaging, with extremely low processing fees in a decentralized network.
 
 - Coin Name: Concord
-- Genesis Date: 25-02-19
+- Genesis Date: 15-July-2021
 - Ticker: CCR
 - Address Prefix: CCR
 - POW Algo: Cryptonight Fast
 - Block Time: 180 seconds
 - Max Supply: 100 million
-- Block Reward: smoothly increasing, starting from 5 all the way up-to 50
+- Block Reward: 5-50
 - Ports:
 - P2P: 33526
 - RPC: 33590
